@@ -1,3 +1,6 @@
+A replica of the original hotstar website. The website had links of the different serials.
+
+
 # Suven
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
